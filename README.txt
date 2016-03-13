@@ -1,0 +1,1 @@
+Please put your movieDB API key in the string-constant "API_KEY" in the MovieDbDataProvider class.
